@@ -17,11 +17,13 @@ body {
     margin-top: 160px;
     text-align: center;
     
-    font-size: 1rem;
-    font-weight: 400;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2rem;
+    font-weight: 800;
+    /* font-style: italic; */
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family: Roboto, Arial;
 }
 
 .styled-div {
     font-size: 2rem;
-}
+}   
